@@ -1,3 +1,7 @@
+----
+1-3 在**TinkerCAD開一個新的Circuit, 分別使甪R, G, B三種顏色的LED, 讓LED ON, OFF的順序為R >> G >> B >> G >> R .... 無限循環
+----
+
 
 1.電路圖
 
